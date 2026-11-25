@@ -1,7 +1,6 @@
 # Temperature Converter CLI
 
 A Python command-line application that converts temperatures between Celsius and Fahrenheit.
-
 ## Features
 - Converts Celsius to Fahrenheit.
 - Converts Fahrenheit to Celsius.
@@ -15,12 +14,10 @@ A Python command-line application that converts temperatures between Celsius and
 - Conditional statements
 - Mathematical operations
 - User input
-
 ## How to Run
 
 ```bash
 python3 temperature_converter.py
 ```
-
-## Author
+Author
 Kayla Ejembi
